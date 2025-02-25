@@ -1,0 +1,3 @@
+yt_api=AIzaSyA9wUTeJKzteTBsh5TXYJWgHQp5Beuxgso
+CHANNEL_ID=UCXV7j238g2dqLzfa47w7hEQ
+QB-TOKEN=b7r5j3_tv9_0_2f97wbb9cgn8zcnj4d2sbkdqjtv
